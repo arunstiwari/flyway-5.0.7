@@ -1,0 +1,13 @@
+Copyright 2010-2018 Boxfuse GmbH
+
+
+Boxfuse GmbH grants the Licensee a non-exclusive,
+timely limited and non-transferable license
+to install and use the Software under the terms of
+the Flyway License and Maintenance Agreement.
+
+
+This software is distributed with a LIMITED WARRANTY.
+See the Flyway License and Maintenance Agreement
+for more details:
+https://flywaydb.org/licenses/flyway-trial.txt
